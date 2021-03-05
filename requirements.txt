@@ -1,4 +1,3 @@
 smtplib
-email
-pyttsx3
-emails
+PyAudio
+SpeechRecognition
