@@ -1,3 +1,4 @@
 smtplib
 PyAudio
 SpeechRecognition
+pyttsx3
